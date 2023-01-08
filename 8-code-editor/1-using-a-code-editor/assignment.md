@@ -22,7 +22,7 @@ After this assignment, you'll learn how to:
 ### Prerequisites
 
 1. A GitHub account. Navigate to [GitHub](https://github.com/) and create an account if you haven't already.
-
+##todo
 ## Steps
 
 **Step 1:** Create a new GitHub Repository and give it a name `my-resume`
